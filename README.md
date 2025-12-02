@@ -58,6 +58,7 @@ To connect computers in multiple networks using Open Shortest Path First (OSPF) 
 
 ## 🔧 ROUTER CONFIGURATION
 
+
 ### Router0 (Delhi)
 
 ```bash
